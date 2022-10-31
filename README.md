@@ -1,5 +1,4 @@
-- 👋 Hi, This is a repository for Python/Gurobi codes for many mathematical programming models in the 5th edition of Facilities Design, by Sunderesh S. Heragu 
-- This site is under construction. Check back in three months.
+- 👋 This is a repository for Python/Gurobi codes for mathematical programming models in the numerical examples of several chapters in the 5th edition of Facilities Design, by Sunderesh S. Heragu
 
 <!---
 facilitiesdesign/facilitiesdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
